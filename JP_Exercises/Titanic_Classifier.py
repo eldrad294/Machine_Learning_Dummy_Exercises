@@ -89,7 +89,7 @@ print('My Accuracy: ' + str(accuracy(expected=expected_labels,predicted=predicte
 #
 pred = logreg.predict(df)
 #
-print(accuracy_score(predicted_labels, pred))
+print('Lib Accuracy:' + str(accuracy_score(predicted_labels, pred)*100) + '%')
 
 
 

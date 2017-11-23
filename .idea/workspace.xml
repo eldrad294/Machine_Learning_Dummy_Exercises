@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad633f95-ec5e-4725-bed8-f93a113db96c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JP_Exercises/NLTK.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JP_Exercises/Titanic_Classifier.py" afterPath="$PROJECT_DIR$/JP_Exercises/Titanic_Classifier.py" />
     </list>
     <ignored path="Machine_Learning_Tutorials.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Titanic_Classifier.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Titanic_Classifier.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JP_Exercises/Titanic_Classifier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="726">
-              <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+            <state relative-caret-position="289">
+              <caret line="47" column="43" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -57,11 +57,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NLTK.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Pearson_Correlation_Coeficient.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JP_Exercises/Pearson_Correlation_Coeficient.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Titanic_Survivor.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Naive Bayes/Titanic_Survivor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="501">
+              <caret line="76" column="8" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NLTK.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JP_Exercises/NLTK.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="391">
+              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
               <folding>
                 <element signature="e#32#43#0" expanded="true" />
               </folding>
@@ -98,8 +118,8 @@
         <option value="$PROJECT_DIR$/JP_Exercises/Gradient_Descent.py" />
         <option value="$PROJECT_DIR$/JP_Exercises/Linear_Regressor_For_Cars_Kms_vs_Price.py" />
         <option value="$PROJECT_DIR$/JP_Exercises/Titanic Classifier_2.py" />
-        <option value="$PROJECT_DIR$/JP_Exercises/Titanic_Classifier.py" />
         <option value="$PROJECT_DIR$/JP_Exercises/NLTK.py" />
+        <option value="$PROJECT_DIR$/JP_Exercises/Titanic_Classifier.py" />
       </list>
     </option>
   </component>
@@ -134,6 +154,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -165,6 +187,10 @@
               <option name="myItemId" value="Machine_Learning_Tutorials" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Naive Bayes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -177,6 +203,16 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Linear Regression" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Machine_Learning_Tutorials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Machine_Learning_Tutorials" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -228,8 +264,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,7 +277,7 @@
       <recent name="C:\Users\gabriel.sammut\University\Machine_Learning_Dummy_Exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.NLTK">
+  <component name="RunManager" selected="Python.Titanic_Classifier">
     <configuration default="false" name="Linear_Regressor_For_Cars_Kms_vs_Price" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,23 +291,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Machine_Learning_Tutorials" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JP_Exercises/Linear_Regressor_For_Cars_Kms_vs_Price.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Gradient_Descent" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JP_Exercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Machine_Learning_Tutorials" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JP_Exercises/Gradient_Descent.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -325,6 +342,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Machine_Learning_Tutorials" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JP_Exercises/NLTK.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Titanic_Survivor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Naive Bayes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Machine_Learning_Tutorials" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Naive Bayes/Titanic_Survivor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -468,18 +502,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.Linear_Regressor_For_Cars_Kms_vs_Price" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Gradient_Descent" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Titanic_Classifier" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Titanic Classifier_2" />
-      <item index="4" class="java.lang.String" itemvalue="Python.NLTK" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Titanic_Classifier" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Titanic Classifier_2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.NLTK" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Titanic_Survivor" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.NLTK" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Titanic_Classifier" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Titanic Classifier_2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Linear_Regressor_For_Cars_Kms_vs_Price" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Gradient_Descent" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Titanic_Classifier" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Titanic_Survivor" />
+        <item index="2" class="java.lang.String" itemvalue="Python.NLTK" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Titanic Classifier_2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Linear_Regressor_For_Cars_Kms_vs_Price" />
       </list>
     </recent_temporary>
   </component>
@@ -505,10 +539,10 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12802951" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2979415" sideWeight="0.5105374" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2979415" sideWeight="0.5126449" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2979415" sideWeight="0.48946258" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2979415" sideWeight="0.4873551" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -768,13 +802,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Naive Bayes/Titanic_Survivor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="71" column="14" selection-start-line="71" selection-start-column="14" selection-end-line="71" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/K_Means/K_Means.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -783,13 +810,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JP_Exercises/Gradient_Descent_2.py" />
-    <entry file="file://$PROJECT_DIR$/JP_Exercises/Pearson_Correlation_Coeficient.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JP_Exercises/Custom_Made_Linear_Regression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -866,22 +886,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JP_Exercises/Titanic_Classifier.py">
+    <entry file="file://$PROJECT_DIR$/JP_Exercises/NLTK.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+        <state relative-caret-position="391">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#32#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JP_Exercises/NLTK.py">
+    <entry file="file://$PROJECT_DIR$/JP_Exercises/Pearson_Correlation_Coeficient.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="17">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Naive Bayes/Titanic_Survivor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="76" column="8" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JP_Exercises/Titanic_Classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="47" column="43" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
           <folding>
-            <element signature="e#32#43#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
